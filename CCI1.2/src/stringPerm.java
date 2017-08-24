@@ -20,6 +20,7 @@ public class stringPerm {
         char[] schar = s.toCharArray();
         Arrays.sort(schar);
         return new String(schar);
+
     }
 }
 
